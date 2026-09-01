@@ -1,0 +1,6 @@
+{
+  "name": "Messenger",
+  "description": "A modern, fast, secure real-time Messenger-style chat application with multi-user messaging, group chats, voice/video calls, stories, media sharing, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
